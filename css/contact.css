@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+.outer{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+.outer .image{
+    /* border: 12px solid rgb(18, 210, 66); */
+    padding-left: 100px;
+    width: 40%;
+    
+    
+}
+
+.outer .form{
+    border: 5px solid white;
+    max-width: 250%;
+}
+
+img{
+    max-width: 100%;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+label{
+    color: whitesmoke;
+}
+
+textarea{
+    box-sizing: border-box;
+
+    width: 100%;
+}

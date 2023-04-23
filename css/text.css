@@ -1,0 +1,65 @@
+.wrapper{
+    /* border: 2px solid red; */
+    color: whitesmoke;
+    padding: auto;
+    width: 100%;
+    margin: 5%;
+    
+    
+}
+
+.wrapper .one{
+    font-size: 33px;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-family: Rockwell;
+}
+.wrapper .two{
+    margin: 10px;
+}
+
+
+.wrapper .static-txt{
+    font-size: 33px;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-family: Rockwell;
+    
+}
+
+body{
+    background-color: rgb(9, 4, 4);
+} 
+
+.body .div1{
+    margin: 0px;
+    padding: 0px;
+    width:83%;
+    display: flex;
+    margin-left: 7%;
+}
+
+.body .social{
+    color: whitesmoke;
+    /* border: 2px solid gold; */
+    /* display: inline-block; */
+    width: 20%;
+    padding: auto;
+    margin: auto;
+    background-color: aliceblue;
+    
+}
+
+
+
+/* .wrapper{
+
+    /* border: 2px solid gold; */
+
+ */
+
+.wrapper .btn{
+    size:20px;
+    border: 2px solid black;
+
+}
